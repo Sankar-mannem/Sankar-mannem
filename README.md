@@ -16,7 +16,7 @@ My current focus is on building end-to-end analytics case studies:
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/mannem-sankar-87a205324)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannem-sankar-87a205324)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mannemsankar1625@gmail.com)
 
 ---
