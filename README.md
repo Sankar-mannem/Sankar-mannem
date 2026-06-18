@@ -2,7 +2,7 @@
 
 ## 👋 About Me:
 
-MSc Data Analytics student at Dublin Business School, Ireland 🎓 | Aspiring Data Analyst 📊 | SQL • Excel • Power BI • Python 🐍
+MSc Data Analytics student at Dublin Business School, Ireland 🎓 | Aspiring Data Analyst 📊 | SQL • Excel • Power BI • Python
 
 I’m building my career as a Data Analyst with a strong focus on business intelligence, dashboard reporting, data cleaning, SQL analysis, and insight communication.
 
@@ -16,8 +16,8 @@ My current focus is on building end-to-end analytics case studies:
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/mannem-sankar-87a205324)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mannemsankar1625@gmail.com)
 
 ---
 
