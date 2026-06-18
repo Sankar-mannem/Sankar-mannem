@@ -74,37 +74,6 @@ Business Recommendations
 
 ---
 
-## 🚀 Portfolio Focus:
-
-I am actively building a practical Data Analytics portfolio focused on real-world business problems.
-
-Current and upcoming portfolio areas:
-
-- SQL business analysis case studies
-- Power BI sales and KPI dashboards
-- Excel reporting dashboards
-- Tableau storytelling dashboards
-- Python data cleaning and EDA projects
-- Customer behavior analysis
-- Business performance reporting
-- Forecasting and trend analysis
-- End-to-end analytics case studies
-
----
-
-## 📌 Currently Improving:
-
-- Advanced SQL
-- Power BI dashboard design
-- DAX and Power Query
-- Data modelling
-- Excel analytics
-- Tableau storytelling
-- Python for data analysis
-- Business case study presentation
-
----
-
 ## 📈 GitHub Analytics:
 
 ![Sankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sankar-mannem&show_icons=true&theme=tokyonight)
@@ -113,20 +82,4 @@ Current and upcoming portfolio areas:
 
 ---
 
-## 🎯 Career Goal:
-
-My goal is to become a Data Analyst who can help businesses understand their data, monitor performance, identify trends, and make better decisions through clear dashboards, strong analysis, and practical recommendations.
-
-I am especially interested in:
-
-- Business Intelligence
-- Sales Analytics
-- Customer Analytics
-- Dashboard Reporting
-- SQL Analytics
-- Data Visualization
-- Predictive Analytics
-
----
-
-⭐ Thanks for visiting my profile. I’m continuously building and improving my Data Analytics portfolio.
+⭐ Thanks for visiting my profile.
