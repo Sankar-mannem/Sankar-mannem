@@ -107,9 +107,9 @@ Current and upcoming portfolio areas:
 
 ## 📈 GitHub Analytics:
 
-![Sankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Sankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sankar-mannem&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankar-mannem&layout=compact&theme=tokyonight)
 
 ---
 
